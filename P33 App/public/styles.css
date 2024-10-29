@@ -1,0 +1,23 @@
+
+.LoginLine {
+    text-align: center;
+    color: white;
+
+}
+.Login {
+    text-align: center;
+    color: blue;
+    size: 10rem;
+}
+.Username, .Password {
+    border-radius: 2rem;
+    background: orange;
+    text-align: center;
+    padding: 1rem;
+    height: 1rem;
+}
+
+body {
+    background-color: #292937;
+    
+}
